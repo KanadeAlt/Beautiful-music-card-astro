@@ -2,4 +2,4 @@
 
 ![preview](u.PNG)
 
-![preview](Capture.jpg)
+![preview](Capture.PNG)
